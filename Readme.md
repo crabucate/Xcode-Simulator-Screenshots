@@ -9,10 +9,10 @@ Start your app in the simulator. Then press the following shortcut:
 
 ![Shortcut for Screenshot, Command + Shift + 4, then Space Bar](images/shortcut_screenshotWindow.png)
 
-The cursor is now a camera icon. 
+The cursor is now a camera icon. Hold
 
-Hold 
 ![Alt Key](images/shortcut_option.png) 
+
 and click on the simulator window.
 
 Open the image (usually on desktop) with Previews. Press the following shortcut:
