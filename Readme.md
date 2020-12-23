@@ -1,5 +1,9 @@
 # Xcode Simulator Screenshots
-Make a screenshot of your Xcode Simulator **with device bezels** and **without shadow**.
+Make a screenshot of your Xcode Simulator **with device bezels** and **without drop shadow**. Perfect for a GitHub-Repository-Readme.
+
+!["Finished Screenshot"](images/screenshot_result.png)
+
+## Step by step
 
 Start your app in the simulator. Then press the following shortcut:
 
@@ -21,6 +25,5 @@ Now press the following shortcut:
 
 !["Option + K"](images/shortcut_crop.png)
 
-The screenshot is ready to use. For example in a GitHub *README.md*.
+The screenshot is ready to use. For example in a GitHub README.md.
 
-!["Finished Screenshot"](images/screenshot_result.png)
