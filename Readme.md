@@ -4,3 +4,5 @@
 - List
 
 Text
+
+["Alt"](images/shortcut_crop.png)
