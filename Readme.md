@@ -1,4 +1,6 @@
 # Xcode Simulator Screenshots
+[![xcode-version](https://img.shields.io/badge/xcode-12.3-blue)](https://developer.apple.com/xcode/)
+
 Make a screenshot of your Xcode Simulator **with device bezels** and **without drop shadow**. Perfect for a GitHub-Repository-Readme.
 
 !["Finished Screenshot"](images/screenshot_result.png)
