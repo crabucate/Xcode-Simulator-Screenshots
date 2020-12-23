@@ -11,7 +11,9 @@ Start your app in the simulator. Then press the following shortcut:
 
 The cursor is now a camera icon. 
 
-Hold ![Alt Key](images/shortcut_option.png) and click on the simulator window.
+Hold 
+![Alt Key](images/shortcut_option.png) 
+and click on the simulator window.
 
 Open the image (usually on desktop) with Previews. Press the following shortcut:
 
