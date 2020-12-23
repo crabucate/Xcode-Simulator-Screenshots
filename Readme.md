@@ -5,4 +5,4 @@
 
 Text
 
-["Alt"](images/shortcut_crop.png)
+!["Alt"](/images/shortcut_crop.png)
